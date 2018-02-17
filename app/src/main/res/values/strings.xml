@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MCCWireless</string>
+    <string name="txtTitle">MCC Wireless</string>
+    <string name="pickPromo">Pick one of the following promotions:</string>
+    <string name="promoOne">Setup payment plan for new phone, $0/down, $10/month added to bill.</string>
+    <string name="promoTwo">Switch Companies for 10% your payments for 6 months.</string>
+    <string name="promoThree">Multiple Phones: 5% off for each phone added.</string>
+    <string name="featureOne">Supports Multiple Platforms</string>
+    <string name="featureTwo">Four bars anywhere you deciede to go.</string>
+    <string name="btnCalculate">Calculate Monthly Payment</string>
+</resources>
